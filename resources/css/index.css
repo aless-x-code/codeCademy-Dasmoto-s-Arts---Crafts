@@ -1,0 +1,33 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+  background-image: url(https://raw.githubusercontent.com/aless-x-code/asset-hosting/main/diogo.jpg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#green {
+  background-color: mediumspringgreen;
+}
+
+#red {
+  background-color: lightcoral;
+}
+
+#blue {
+  background-color: skyblue;
+}
+
+span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
